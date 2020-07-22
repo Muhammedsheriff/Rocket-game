@@ -1,0 +1,31 @@
+*
+{
+    transition: all 0.4s;
+}
+
+body
+{
+    background-color: black;
+}
+#c
+{
+    background-color: cornflowerblue;
+}
+
+
+#game
+{
+    width: 15%;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+#game img
+{
+    width: 100%;
+}
+#bullet
+{
+    position: relative;
+    bottom: -100px;
+}
